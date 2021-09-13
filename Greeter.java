@@ -16,7 +16,7 @@ public class Greeter {
 <<<<<<< HEAD
     return messages.getString("greeting") + ", " + name.toUpperCase();
 =======
-    return messages.getString("greeting") + ", " + _name_;
+    return messages.getString("greeting") + ", " + name;
 >>>>>>> feature-2
   }
 
